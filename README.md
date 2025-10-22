@@ -37,8 +37,8 @@ From debugging late at night 🕐 to perfecting UI details 🎨, I’m always pu
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/umejr-dzinovic/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:umejrdzinovic@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="35" width="35" /></a>
+<a href="[https://www.linkedin.com/in/umejr-dzinovic/](https://www.linkedin.com/in/umejr-dzinovic-4083a6343/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:umi.dzinovic10@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="35" width="35" /></a>
 </p>
 
 ---
