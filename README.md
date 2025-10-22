@@ -72,6 +72,6 @@ sometimes I only realize it’s 3 AM when the sun starts to rise 🌅
 ---
 
 ### ✨ Quote I Live By
-> “Don’t wait for inspiration. Create it.”
+> “Don’t wait for anybody. Create it.”
 
 ---
