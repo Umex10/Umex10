@@ -15,7 +15,6 @@
 - **React** and **Next.js** for modern web apps  
 - **TypeScript** for cleaner, safer code  
 - **TailwindCSS** for fast and nice UI design  
-- **Backend with Java & PostgreSQL**
 
 ---
 
