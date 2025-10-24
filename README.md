@@ -19,10 +19,9 @@
 ---
 
 ### ⚡ What I’m Working On
-- Building a **Weather App** in React (context + API + responsive UI)  
+- Learning next.js 
 - Learning how to make **modern dashboards** with charts and analytics  
-- Experimenting with **Next.js SSR/SSG**  
-- Exploring **mobile development with Kotlin & Java**
+
 
 ---
 
