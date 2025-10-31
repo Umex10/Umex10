@@ -4,7 +4,7 @@
 <p align="center">
   💻 Mobile Software Development Student at <strong>FH Joanneum, Graz</strong>  
   <br>
-  🚀 Passionate about <strong>building full-stack web & mobile apps</strong>  
+  🚀 Happy about <strong>building full-stack web & mobile apps</strong>  
   <br>
   🌙 Working beyond regular hours — because the world’s not ready yet.
 </p>
@@ -28,8 +28,8 @@
 ### 🧠 My Developer Mindset
 > “Great software doesn’t sleep — and neither do great developers.”
 
-I love learning by doing — every project I build teaches me something new.  
-From debugging late at night 🕐 to perfecting UI details 🎨, I’m always pushing boundaries.  
+I love learning by doing — every app I build teaches me something new.  
+From debugging late at night 🕐 to finishing UI details 🎨, I’m always pushing boundaries.  
 
 ---
 
