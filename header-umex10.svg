@@ -1,0 +1,37 @@
+
+```svg
+<svg fill="none" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrapper {
+          height: 200px;
+          display: grid;
+          place-items: center;
+        }
+        .text {
+          width: 6ch;
+          animation: typing 1.8s steps(6), blink .8s step-end infinite alternate;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 4px solid;
+          font-family: monospace;
+          font-size: 3em;
+          background: linear-gradient(90deg, #00f1dc 0%, #5673f1 44%, #6744f1 54%, #fe00ff 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+        @keyframes typing {
+          from { width: 0 }
+        }
+        @keyframes blink {
+          from, to { border-color: transparent }
+          50% { border-color: #fe00ff; }
+        }
+      </style>
+      <div class="wrapper">
+        <div class="text">umex10</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
