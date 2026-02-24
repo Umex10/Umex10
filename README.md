@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Umejr+%F0%9F%91%8B;Full-Stack+Dev;Java+%E2%80%A2+TS+%E2%80%A2+React;Building+things+that+actually+work)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Umex10&style=flat-square&color=6366f1" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Umex10&style=flat-square&color=6366f1" alt="Views"/>
 
 </div>
 
@@ -34,7 +34,7 @@ Full-stack **social media** app — users, posts, real-time chat. Built with **N
 
 ---
 
-### 📝 Renderex — AI-Powered Note-Taking
+### 📝 Renderex — AI-Driven Note-Taking
 
 Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
 
