@@ -8,19 +8,19 @@
 
 ---
 
-## 📁 Apps
+## � Apps
 
 A quick overview of the repos worth seeing:
 
-| Repo | What it is |
-|------|-----------|
-| [**chatex**](https://github.com/umejr/chatex) | Real-time chat app — Next.js + S-Boot with full JWT security layer |
-| [**renderex**](https://github.com/umejr/renderex) | AI-powered note-taking app — Next.js + Firebase + Gemini 2.5 |
-| [**task-manager**](https://github.com/umejr/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
-| [**TicTacToe**](https://github.com/umejr/TicTacToe) | Classic game built in Java 17 with JavaFX and clean OOP architecture |
-| [**weather.app**](https://github.com/umejr/weather.app) | Weather app — React + TS + Vite + Tailwind |
-| [**dev-resume**](https://github.com/umejr/dev-resume) | My personal portfolio / resume, built with Next.js |
-| [**smart-kassa**](https://github.com/umejr/smart-kassa) | Group project — register system for taxi companies — React + Leaflet live tracking, dashboard & analytics |
+| &nbsp; | Repo | What it is |
+|--------|------|-----------|
+| 💬 | [**chatex**](https://github.com/umejr/chatex) | Social media app — Next.js + S-Boot with full JWT security layer |
+| ✏️ | [**renderex**](https://github.com/umejr/renderex) | AI-powered note-taking — Next.js + Firebase + Gemini |
+| ✅ | [**task-manager**](https://github.com/umejr/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
+| 🎮 | [**TicTacToe**](https://github.com/umejr/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
+| 🌤️ | [**weather.app**](https://github.com/umejr/weather.app) | Weather app — React + TS + Vite + Tailwind |
+| 👤 | [**dev-resume**](https://github.com/umejr/dev-resume) | My personal portfolio / resume, built with Next.js |
+| 🚕 | [**smart-kassa**](https://github.com/umejr/smart-kassa) | Group project — taxi register system — React + Leaflet live tracking, dashboard & analytics |
 
 ---
 
@@ -36,7 +36,7 @@ Full-stack **social media** app — users, posts, real-time chat. Built with **N
 
 ### 📝 Renderex — AI-Powered Note-Taking
 
-Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini 2.5 Flash** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
+Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
 
 `Next.js` `TS` `Firebase` `Redux` `Gemini AI` `Framer Motion` `Tailwind`
 
