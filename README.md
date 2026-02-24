@@ -8,7 +8,7 @@
 
 ---
 
-## � Apps
+## 🚀 Apps
 
 A quick overview of the repos worth seeing:
 
