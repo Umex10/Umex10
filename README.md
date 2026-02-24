@@ -8,57 +8,65 @@
 
 ---
 
-## 🚀 Apps
+## 🚀 The Arsenal | Project Overview
 
-A quick overview of the repos worth seeing:
+A quick look at the repositories worth exploring:
 
-| &nbsp; | Repo | What it is |
-|--------|------|-----------|
-| 💬 | [**chatex**](https://github.com/umejr/chatex) | Social media app — Next.js + S-Boot with full JWT security layer |
-| ✏️ | [**renderex**](https://github.com/umejr/renderex) | AI-powered note-taking — Next.js + Firebase + Gemini |
-| ✅ | [**task-manager**](https://github.com/umejr/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
-| 🎮 | [**TicTacToe**](https://github.com/umejr/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
-| 🌤️ | [**weather.app**](https://github.com/umejr/weather.app) | Weather app — React + TS + Vite + Tailwind |
-| 👤 | [**dev-resume**](https://github.com/umejr/dev-resume) | My personal portfolio / resume, built with Next.js |
-| 🚕 | [**smart-kassa**](https://github.com/umejr/smart-kassa) | Group project — taxi register system — React + Leaflet live tracking, dashboard & analytics |
-
----
-
-## 🔍 Deep Dives
-
-### 💬 Chatex — Social Media Platform with a real Security Layer
-
-Full-stack **social media** app — users, posts, real-time chat. Built with **Next.js** + **S-Boot**. The security layer: a custom **JWT filter chain** intercepts every request before it reaches a controller. **Access token** (15 min) lives in the response body, the **refresh token** (30 days) goes into an `HttpOnly` cookie — invisible to JavaScript, XSS-proof by design. Each JWT carries a `type_jwt` claim so tokens can never be swapped.
-
-`Next.js` `TS` `Tailwind` `Redux` `S-Boot` `S-Boot Security` `PostgreSQL` `Docker`
+| &nbsp; | Repo | Core Focus |
+| :---: | :--- | :--- |
+| 🛡️ | [**chatex**](https://github.com/umejr/chatex) | Social media platform with a robust JWT security layer. |
+| 🧠 | [**renderex**](https://github.com/umejr/renderex) | AI-powered Markdown note-taking via Gemini & Firebase. |
+| 🎯 | [**task-manager**](https://github.com/umejr/task-manager) | Full-stack S-Boot app, live deployed on Railway & Vercel. |
+| ⚡ | [**TicTacToe**](https://github.com/umejr/TicTacToe) | Networked multiplayer game with heavy Java concurrency. |
+| ☁️ | [**weather.app**](https://github.com/umejr/weather.app) | Clean, fast, and responsive weather application. |
+| 👨‍💻 | [**dev-resume**](https://github.com/umejr/dev-resume) | My personal developer portfolio & resume. |
+| 🚖 | [**smart-kassa**](https://github.com/umejr/smart-kassa) | Taxi register system with live GPS tracking & analytics. |
 
 ---
 
-### 📝 Renderex — AI-Powered Note-Taking
+## 🔬 Deep Dives | Under the Hood
 
-Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
+### 🛡️ Chatex — Secure Social Media Platform
+Full-stack **social media** app supporting users, posts, and real-time chat, built with a heavy focus on backend security.
+* **The Security Layer:** A custom **JWT filter chain** intercepts every request before it hits the controller.
+* **Token Architecture:** Access tokens (15 min) live in the response body. Refresh tokens (30 days) are secured in an `HttpOnly` cookie—**XSS-proof by design** and invisible to JavaScript.
+* **Validation:** Each JWT carries a strictly verified `type_jwt` claim to ensure tokens can never be swapped.
 
-`Next.js` `TS` `Firebase` `Redux` `Gemini AI` `Framer Motion` `Tailwind`
-
----
-
-### 🚕 Smart-Kassa — Taxi Register System with Live Map
-
-A **Team-built (SCRUM) software** — a full register system for taxi companies. I built and designed the entire UI and was fully responsible for the route system — **Leaflet** for the interactive map, **live GPS tracking** during rides, turn-by-turn navigation to the destination. The **All Rides** view lists every recorded trip with sorting and animated entries. I also built the **Summary** page, the **Dashboard** with analytics, and the **Settings** — everything the driver actually interacts with every shift.
-
-`React` `TS` `Leaflet` `Redux` `Tailwind` `Shadcn/ui` `Framer Motion` `Node.js` `Express` `PostgreSQL`
+> **Stack:** `Next.js` • `TypeScript` • `Tailwind` • `Redux` • `Spring Boot` • `Spring Security` • `PostgreSQL` • `Docker`
 
 ---
 
-### 🎮 TicTacToe — Java Concurrency & Networking
+### 🧠 Renderex — AI-Powered Note-Taking
+Modern note-taking where Markdown meets AI. Entirely serverless architecture.
+* **Serverless Backend:** **Firebase** handles auth, real-time database, protected routes, and user-scoped data seamlessly.
+* **Context-Aware AI:** **Google Gemini** is wired directly in for intelligent content generation.
+* **UI/UX:** Multi-format export (PDF, DOCX, MD, TXT), comprehensive tag system, and fluid dark/light themes powered by **Framer Motion**.
 
-Not just a game — **networked multiplayer** with a custom TCP server-client architecture built from scratch. Every client connection runs on its own thread, coordinated via `ConcurrentHashMap` for game sessions and `ConcurrentLinkedQueue` as the matchmaking pool. `AtomicBoolean` + `CountDownLatch` handle player sync, the countdown timer runs on a background thread with a `volatile` stop flag + `Thread.interrupt()` — JavaFX UI thread never touched. AI difficulty via a **Strategy pattern**: `EasyMove`, `MediumMove`, `HardMove` — swappable at runtime.
-
-`Java` `JavaFX` `TCP Sockets` `Concurrency API` `JUnit 5` `Maven`
+> **Stack:** `Next.js` • `TypeScript` • `Firebase` • `Redux` • `Gemini AI` • `Framer Motion` • `Tailwind`
 
 ---
 
-## 🛠️ Tech Stack
+### 🚖 Smart-Kassa — Live Tracking Taxi Register
+A **SCRUM-driven** team project delivering a complete register system for taxi companies. 
+* **My Role:** Built and designed the entire UI and engineered the interactive route system.
+* **Live Tracking:** Integrated **Leaflet** for the interactive map, real-time GPS tracking during rides, and turn-by-turn navigation.
+* **Driver Dashboard:** Built the *All Rides* log with animated entries, the *Summary* analytics dashboard, and critical driver settings.
+
+> **Stack:** `React` • `TypeScript` • `Leaflet` • `Redux` • `Tailwind` • `Shadcn/ui` • `Framer Motion` • `Node.js` • `Express` • `PostgreSQL`
+
+---
+
+### ⚡ TicTacToe — Advanced Java Concurrency & Networking
+Not just a simple game—a fully **networked multiplayer** experience powered by a custom TCP server-client architecture built from scratch.
+* **Multi-Threading:** Every client connection runs on a dedicated thread. Coordinated via `ConcurrentHashMap` for active sessions and `ConcurrentLinkedQueue` for the matchmaking pool.
+* **Thread Safety:** Handled by `AtomicBoolean` and `CountDownLatch`. Background timers run with a `volatile` stop flag and `Thread.interrupt()` to strictly protect the JavaFX UI thread.
+* **Modular AI:** Implements the **Strategy Pattern** (`EasyMove`, `MediumMove`, `HardMove`), allowing difficulty swapping at runtime.
+
+> **Stack:** `Java` • `JavaFX` • `TCP Sockets` • `Concurrency API` • `JUnit 5` • `Maven`
+
+---
+
+## ⚙️ Core Stack
 
 <div align="center">
 
@@ -68,19 +76,19 @@ Not just a game — **networked multiplayer** with a custom TCP server-client ar
 
 ---
 
-## 📊 Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api?username=Umex10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api?username=Umex10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Umex10&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Umex10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+<br>
 
 <div align="center">
-<sub>Built by hand. No shortcuts.</sub>
+<sub><b>Built by hand. No shortcuts.</b></sub>
 </div>
