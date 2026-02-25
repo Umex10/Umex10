@@ -14,7 +14,6 @@ A quick overview of the repos worth seeing:
 
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
-| 💬 | [**chatex**](https://github.com/Umex10/chatex) | Social media app — Next.js + S-Boot with full JWT security layer |
 | ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-powered note-taking — Next.js + Firebase + Gemini |
 | ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
 | 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
@@ -25,14 +24,6 @@ A quick overview of the repos worth seeing:
 ---
 
 ## 🔍 Deep Dives
-
-### 💬 Chatex — Social Media Platform with a real Security Layer
-
-Full-stack **social media** app — users, posts, real-time chat. Built with **Next.js** + **S-Boot**. The security layer: a custom **JWT filter chain** intercepts every request before it reaches a controller. **Access token** (15 min) lives in the response body, the **refresh token** (30 days) goes into an `HttpOnly` cookie — invisible to JavaScript, XSS-proof by design. Each JWT carries a `type_jwt` claim so tokens can never be swapped.
-
-`Next.js` `TS` `Tailwind` `Redux` `S-Boot` `S-Boot Security` `PostgreSQL` `Docker`
-
----
 
 ### 📝 Renderex — AI-Driven Note-Taking
 
