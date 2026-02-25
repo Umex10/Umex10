@@ -63,7 +63,6 @@ Not just a game — **networked multiplayer** with a custom TCP server-client ar
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api?username=Umex10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
