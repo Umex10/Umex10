@@ -43,7 +43,7 @@ A **Team-built (SCRUM) software** — a full register system for taxi companies.
 
 ### 🎮 TicTacToe — Java Concurrency & Networking
 
-Not just a game — **networked multiplayer** with a custom TCP server-client architecture built from scratch. Every client connection runs on its own thread, coordinated via `ConcurrentHashMap` for game sessions and `ConcurrentLinkedQueue` as the matchmaking pool. `AtomicBoolean` + `CountDownLatch` handle player sync, the countdown timer runs on a background thread with a `volatile` stop flag + `Thread.interrupt()` — JavaFX UI thread never touched. AI difficulty via a **Strategy pattern**: `EasyMove`, `MediumMove`, `HardMove` — swappable at runtime.
+Not just a game — **networked multiplayer** with a custom TCP server-client architecture built from scratch. Every client connection runs on its own thread, coordinated via `ConcurrentHashMap` for game sessions and `ConcurrentLinkedQueue` as the matchmaking pool. `AtomicBoolean` + `CountDownLatch` handle player sync, the countdown timer runs on a background thread with a `volatile` stop flag + `Thread.interrupt()` — JavaFX UI thread never touched. AI **Minimax** strategy: `EasyMove`, `MediumMove`, `HardMove` — swappable at runtime.
 
 `Java` `JavaFX` `TCP Sockets` `Concurrency API` `JUnit 5` `Maven`
 
