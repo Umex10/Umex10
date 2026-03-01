@@ -14,7 +14,7 @@ A quick overview of the repos worth seeing:
 
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
-| ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-powered note-taking — Next.js + Firebase + Gemini |
+| ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-Driven note-taking — Next.js + Firebase + Gemini |
 | ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
 | 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
 | 🌤️ | [**weather.app**](https://github.com/Umex10/weather.app) | Weather app — React + TS + Vite + Tailwind |
