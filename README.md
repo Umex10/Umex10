@@ -12,6 +12,7 @@ A quick overview of the repos worth seeing:
 
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
+| 💬 | [**chatex**](https://github.com/Umex10/chatex) | JWT-Authentication, Layered Backend (Controller, Service, Model), Fast Sql-Queries |
 | ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-Driven note-taking — Next.js + Firebase + Gemini |
 | ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
 | 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
@@ -22,6 +23,14 @@ A quick overview of the repos worth seeing:
 ---
 
 ## 🔍 Deep Dives
+
+### 💬 Chatex — Social Website
+
+A social-Website with a JWT auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin. Every request runs through a custom **`JwtAuthentication`** (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie). Users can post **Shouts**, manage their accounts (avatar, banner, bio, location), and the `AuthController` builds sign-up, sign-in, and token refresh endpoints.
+
+`Next.js` `TS` `S-Boot` `S-Boot-Security` `JWT` `P-SQL` `Redux` `Shadcn/ui` `Container & Images`
+
+---
 
 ### 📝 Renderex — AI-Driven Note-Taking
 
