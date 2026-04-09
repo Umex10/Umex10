@@ -13,7 +13,7 @@ A quick overview of the repos worth seeing:
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
 | 💬 | [**chatex**](https://github.com/Umex10/chatex) | JWT-Authentication, Layered Backend (Controller, Service, Model), Fast Sql-Queries |
-| 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume / frontend portfolio, built with Next.js |
+| 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume, built with Next.js |
 | 🧩 | [**dsa-exercises-website**](https://github.com/Umex10/dsa-exercises-website) | Detailed LeetCode solutions & DSA notes — Java solutions + Next.js website |
 | ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-Driven note-taking — Next.js + Firebase + Gemini |
 | 🚕 | [**smart-kassa**](https://github.com/Umex10/smart-kassa) | In Team — taxi register system — React + Leaflet live tracking, dashboard & analytics |
