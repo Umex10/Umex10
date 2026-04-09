@@ -33,6 +33,14 @@ A social-Website with a JWT auth system. The **S-Boot-Security** `Security-Chain
 
 ---
 
+### 🧩 LeetCode & DSA Exercises — Issue Solving
+
+A dedicated website where I thoroughly document my solved **LeetCode** issues and Data Structures & Algorithms (DSA) exercises. Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort issues. Built with **Next.js**.
+
+`Java` `Next.js` `Algorithms` `DSA` `Time/Space Complexity` `Tailwind`
+
+---
+
 ### 📝 Renderex — AI-Driven Note-Taking
 
 Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
@@ -46,14 +54,6 @@ Modern note-taking where markdown meets AI. **Firebase** handles the entire back
 A **Team-built (SCRUM) software** — a full register system for taxi companies. I built and designed the entire UI and was fully responsible for the route system — **Leaflet** for the interactive map, **live GPS tracking** during rides, turn-by-turn navigation to the destination. The **All Rides** view lists every recorded trip with sorting and animated entries. I also built the **Summary** page, the **Dashboard** with analytics, and the **Settings** — everything the driver actually interacts with every shift.
 
 `React` `TS` `Leaflet` `Redux` `Tailwind` `Shadcn/ui` `Framer Motion` `Node.js` `Express` `PostgreSQL`
-
----
-
-### 🧩 LeetCode & DSA Exercises — Algorithmic Problem Solving
-
-A dedicated platform where I thoroughly document my solved **LeetCode** problems and Data Structures & Algorithms (DSA) exercises. Every solution is implemented in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Space Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort specific problems by difficulty, topic, or data structure. Built with **Next.js**, it provides a fast, interactive reading experience for exploring complex algorithmic concepts.
-
-`Java` `Next.js` `Algorithms` `DSA` `Time/Space Complexity` `Tailwind`
 
 ---
 
