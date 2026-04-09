@@ -13,12 +13,13 @@ A quick overview of the repos worth seeing:
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
 | 💬 | [**chatex**](https://github.com/Umex10/chatex) | JWT-Authentication, Layered Backend (Controller, Service, Model), Fast Sql-Queries |
+| 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume / frontend portfolio, built with Next.js |
+| 🧩 | [**dsa-exercises-website**](https://github.com/Umex10/dsa-exercises-website) | Detailed LeetCode solutions & DSA notes — Java solutions + Next.js website |
 | ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-Driven note-taking — Next.js + Firebase + Gemini |
+| 🚕 | [**smart-kassa**](https://github.com/Umex10/smart-kassa) | In Team — taxi register system — React + Leaflet live tracking, dashboard & analytics |
 | ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
 | 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | Networked multiplayer game — Java + JavaFX + TCP sockets + concurrency |
 | 🌤️ | [**weather.app**](https://github.com/Umex10/weather.app) | Weather app — React + TS + Vite + Tailwind |
-| 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume / resume, built with Next.js |
-| 🚕 | [**smart-kassa**](https://github.com/Umex10/smart-kassa) | In Team — taxi register system — React + Leaflet live tracking, dashboard & analytics |
 
 ---
 
@@ -48,11 +49,11 @@ A **Team-built (SCRUM) software** — a full register system for taxi companies.
 
 ---
 
-### 🎮 TicTacToe — Java Concurrency & Networking
+### 🧩 LeetCode & DSA Exercises — Algorithmic Problem Solving
 
-Not just a game — **networked multiplayer** with a custom TCP server-client architecture built from scratch. Every client connection runs on its own thread, coordinated via `ConcurrentHashMap` for game sessions and `ConcurrentLinkedQueue` as the matchmaking pool. `AtomicBoolean` + `CountDownLatch` handle player sync, the countdown timer runs on a background thread with a `volatile` stop flag + `Thread.interrupt()` — JavaFX UI thread never touched. AI **Minimax** strategy: `EasyMove`, `MediumMove`, `HardMove` — swappable at runtime.
+A dedicated platform where I thoroughly document my solved **LeetCode** problems and Data Structures & Algorithms (DSA) exercises. Every solution is implemented in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Space Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort specific problems by difficulty, topic, or data structure. Built with **Next.js**, it provides a fast, interactive reading experience for exploring complex algorithmic concepts.
 
-`Java` `JavaFX` `TCP Sockets` `Concurrency API` `JUnit 5` `Maven`
+`Java` `Next.js` `Algorithms` `DSA` `Time/Space Complexity` `Tailwind`
 
 ---
 
