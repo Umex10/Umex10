@@ -67,16 +67,6 @@ A **Team-built (SCRUM) software** — a full register system for taxi companies.
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-tawny-sigma-83.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 <sub>Built by hand. No shortcuts.</sub>
 </div>
