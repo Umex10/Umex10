@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Umejr+%F0%9F%91%8B;Full-Stack+Dev;Java+%E2%80%A2+TS+%E2%80%A2+React;Building+things+that+actually+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Umejr+%F0%9F%91%8B;Full-Stack+Dev;Java+%E2%80%A2+TS+%E2%80%A2+React+DSA;Building+things+that+actually+work)](https://git.io/typing-svg)
 
 </div>
 
@@ -61,7 +61,7 @@ A **Team-built (SCRUM) software** — a full register system for the taxi indust
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,tailwind,redux,firebase,postgres,docker,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nextjs,tailwind,redux,firebase,postgres,docker,git&perline=6)](https://skillicons.dev)
 
 </div>
 
