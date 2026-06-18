@@ -12,7 +12,7 @@ A quick overview of the repos worth seeing:
 
 | &nbsp; | Repo | What it is |
 |--------|------|-----------|
-| 🔐 | [**authkit**](https://github.com/Umex10/authkit) | usable JWT auth-system microservice — S-Boot backend + Next.js & React Native frontends, Docker, full tests |
+| 🔐 | [**authkit**](https://github.com/Umex10/authkit) | Usable JWT auth-system microservice — S-Boot backend + Next.js & React Native frontends, Docker, full tests |
 | 💬 | [**chatex**](https://github.com/Umex10/chatex) | JWT-Authentication, Layered Backend (Controller, Service, Model), Fast Sql-Queries |
 | 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume, built with Next.js |
 | 🧩 | [**dsa-exercises-website**](https://github.com/Umex10/dsa-exercises-website) | Detailed LeetCode solutions & DSA notes — Java solutions + Next.js website |
