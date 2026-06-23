@@ -30,7 +30,7 @@ A quick overview of the repos worth seeing:
 
 A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API. The security layer is fully **stateless JWT**: a short-lived **access token** (15 min) plus a long-lived **refresh token** (30 days) kept in an **HTTP-only cookie** on web and in the **device keystore** (`expo-secure-store`) on mobile. Role-based authorization (`USER` / `ADMIN`) via `@PreAuthorize`, a protected `GET /me` route, and a live **Swagger UI** with an `Authorize 🔒` button. Both clients use **Redux Toolkit Query** with silent token refresh and route guards — Server Actions on web, `AuthProvider` on mobile. One `docker compose up` brings up Postgres + backend, and it ships with tests everywhere: **Spring integration tests, Vitest + Playwright e2e (web), Jest + RN Testing Library (mobile)**.
 
-`Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Next.js` `React 19` `React Native` `Expo` `RTK Query` `Tailwind` `Docker`
+`Java 21` `S-Boot` `Spring Security` `JWT` `PostgreSQL` `Next.js` `React 19` `React Native` `Expo` `RTK Query` `Tailwind` `Docker`
 
 ---
 
