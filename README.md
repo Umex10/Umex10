@@ -20,7 +20,7 @@ A quick overview of the repos worth seeing:
 | 🚕 | [**smart-kassa**](https://github.com/Umex10/smart-kassa) | In Team — taxi register system — React + Leaflet live tracking, dashboard & analytics |
 | ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
 | 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | TicTacToe — Java + JavaFX + TCP sockets + concurrency |
-| 🌤️ | [**weather UI**](https://github.com/Umex10/weather.app) | Weather app — React + TS + Vite + Tailwind |
+| 🌤️ | [**weather**](https://github.com/Umex10/weather.app) | Weather app — React + TS + Vite + Tailwind |
 
 ---
 
