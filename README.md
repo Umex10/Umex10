@@ -1,34 +1,65 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Umejr+%F0%9F%91%8B;Full-Stack+Dev;Java+%E2%80%A2+TS+%E2%80%A2+React+DSA;Building+things+that+actually+work)](https://git.io/typing-svg)
+```text
+             .::;;;||||(((|||;:     .           Umex10@github ----------------------------------------------
+          .:;;|(((tttt(tt((tttt((|:   .         . OS: ........................................... Linux Mint
+        :;;|(tttt((((((((((((((((ttt|.  .       . Host: .................................. FH JOANNEUM, Graz
+      .;||(ttt(((((((((((((((((((|((tt(:        . Kernel: ..................... Software Engineering Student
+     ;|;(ttt((tttt((((((((((((((((((|((tt. .    . IDE: .............................................. VSCode
+   .|;|fjjfffffftttttttt(((((((((((((((|tf|     . Uptime: .................... 120+ days daily-commit streak
+  .|.t##wkkkwkjjfftftt((((tt((((((((((((|(f| .
+  |:f%%%%%%%###wwwkjjjkjjfft((((((((((((((((:   . Languages.Programming: .................. Java, TypeScript
+ |;(%%%%@@@@@@%%%%%%%%#kjftttt(((((((((((((((   . Languages.Frameworks: ............... Next.js, Spring Boot
+:|.%%#%@@@@@@@@@@%%%%#wkjjft(tfjjft((((f(((((;  . Languages.Markup: ................... HTML, CSS, SQL, YAML
+| k@@@@@@@@@@@@@@@@@@@%%%kkkw##wftttttjt(t((((
+|.%@@@@@@@@@@@@@@@@@@@@@%##%wkjffffjjjj(ft((tf  . Hobbies.Software: ................ Building fullstack apps
+;(%%@@@@@@@@@@@@@@@@@@@@@%%#kkkkwwwwkwkjjtttf(  . Hobbies.Focus: .................. Auth systems, clean APIs
+ f%%@@@@@@@@@@@@@@@@@@@@%%%###%%%%%##%wwjfjjt(
+:t%%%@@@@@@@@@@@@@@@@@@@%%#%%%@@@@@@@%%%kwkftt  Contact ----------------------------------------------------
+;|w%%%@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@#kjft  . Email.University: ...... Umejr.Dzinovic@edu.fh-joanneum.at
+:;fw%%%%@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%wjj(  . DevResume: ................... dev-resume-sigma.vercel.app
+..fjw%%%%%%%@@@@@@%%%%%%%@@@@@@@@@@@@@@@%#kjf.  . GitHub: ........................................... Umex10
+ .;jjjk#%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%#wkj;
+   |jjfj%###%%%%###%%#w#%@@@@@@@@@@@@@%#wkj| .  GitHub Stats -----------------------------------------------
+  . (jjfk############%%%%@@@@@@@@@@@%#wkkj| .   . Repos: ................... 9 | Followers: 7 | Following: 5
+   . |jkjjkw#######%#######%%@@@@%%#wkjjf: .    . Pinned: ........................ authkit, chatex, renderex
+    . :fkjjjjwwwwkkjjjjjjjjkkwwwwkkkjjf|  .     . Stack.Deploy: .................... Docker, Railway, Vercel
+     .  |tffft(|((|(ffjjjjjfffjjjffft|  .
+       .  ;||((ttttfffftttjfjftftt|:   .
+        ..   .;||(fft(((ttffft|;:   ..
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://dev-resume-sigma.vercel.app"><img src="https://img.shields.io/badge/Dev--Resume-visit-6e40c9?style=for-the-badge" alt="Dev Resume"/></a>
+<a href="mailto:Umejr.Dzinovic@edu.fh-joanneum.at"><img src="https://img.shields.io/badge/Email-contact-2ea043?style=for-the-badge" alt="Email"/></a>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Umex10&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Umex10&theme=github-dark-dimmed&hide_border=true" alt="Commit Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umex10&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🚀 Apps
-
-A quick overview of the repos worth seeing:
-
-| &nbsp; | Repo | What it is |
-|--------|------|-----------|
-| 🔐 | [**authkit**](https://github.com/Umex10/authkit) | Usable JWT auth-system microservice — S-Boot backend + Next.js & React Native frontends, Docker, full tests |
-| 💬 | [**chatex**](https://github.com/Umex10/chatex) | JWT-Authentication, Layered Backend (Controller, Service, Model), Fast Sql-Queries |
-| 👤 | [**dev-resume**](https://github.com/Umex10/dev-resume) | My dev resume, built with Next.js |
-| 🧩 | [**dsa-exercises-website**](https://github.com/Umex10/dsa-exercises-website) | Detailed LeetCode solutions & DSA notes — Java solutions + Next.js website |
-| ✏️ | [**renderex**](https://github.com/Umex10/renderex) | AI-Driven note-taking — Next.js + Firebase + Gemini |
-| 🚕 | [**smart-kassa**](https://github.com/Umex10/smart-kassa) | In Team — taxi register system — React + Leaflet live tracking, dashboard & analytics |
-| ✅ | [**task-manager**](https://github.com/Umex10/task-manager) | My first full-stack S-Boot app — React + S-Boot + Docker, live on Railway & Vercel |
-| 🎮 | [**TicTacToe**](https://github.com/Umex10/TicTacToe) | TicTacToe — Java + JavaFX + TCP sockets + concurrency |
-| 🌤️ | [**weather**](https://github.com/Umex10/weather.app) | Weather app — React + TS + Vite + Tailwind |
+## 🔍 Deep Dives
 
 ---
 
-## 🔍 Deep Dives
-
 ### 🔐 AuthKit — Drop-in Authentication Microservice
 
-A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API. The security layer is fully **stateless JWT**: a short-lived **access token** (15 min) plus a long-lived **refresh token** (30 days) kept in an **HTTP-only cookie** on web and in the **device keystore** (`expo-secure-store`) on mobile. Role-based authorization (`USER` / `ADMIN`) via `@PreAuthorize`, a protected `GET /me` route, and a live **Swagger UI** with an `Authorize 🔒` button. Both clients use **Redux Toolkit Query** with silent token refresh and route guards — Server Actions on web, `AuthProvider` on mobile. One `docker compose up` brings up Postgres + backend, and it ships with tests everywhere: **Spring integration tests, Vitest + Playwright e2e (web), Jest + RN Testing Library (mobile)**.
+A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API. The security layer is fully **stateless JWT**: a short-lived **access token** (15 min) plus a long-lived **refresh token** (30 days) kept in an **HTTP-only cookie** on web and in the **device keystore** (`expo-secure-store`) on mobile. Role-based authorization (`USER` / `ADMIN`) via `@PreAuthorize`, a protected `GET /me` route, and a live **Swagger UI** with an `Authorize` 🔒 button. Both clients use **Redux Toolkit Query** with silent token refresh and route guards — Server Actions on web, `AuthProvider` on mobile. One `docker compose up` brings up Postgres + backend, and it ships with tests everywhere: **Spring integration tests, Vitest + Playwright e2e (web), Jest + RN Testing Library (mobile)**.
 
 `Java 21` `S-Boot` `Spring Security` `JWT` `PostgreSQL` `Next.js` `React 19` `React Native` `Expo` `RTK Query` `Tailwind` `Docker`
 
@@ -36,7 +67,7 @@ A reusable, **production-style auth system** packaged as a monorepo: one **Sprin
 
 ### 💬 Chatex — Social Website
 
-A social-Website with a JWT auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin. Every request runs through a custom **`JwtAuthentication`** (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie). Users can post **Shouts**, manage their accounts (avatar, banner, bio, location), and the `AuthController` builds sign-up, sign-in, and token refresh endpoints.
+A social-Website with a JWT auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin. Every request runs through a custom `JwtAuthentication` (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie). Users can post **Shouts**, manage their accounts (avatar, banner, bio, location), and the `AuthController` builds sign-up, sign-in, and token refresh endpoints.
 
 `Next.js` `TS` `S-Boot` `S-Boot-Security` `JWT` `P-SQL` `Redux` `Shadcn/ui` `Container & Images`
 
@@ -44,7 +75,7 @@ A social-Website with a JWT auth system. The **S-Boot-Security** `Security-Chain
 
 ### 🧩 LeetCode & DSA Exercises — Issue Solving
 
-A dedicated website where I thoroughly document my solved **LeetCode** issues and Data Structures & Algorithms (DSA) exercises. Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort issues. Built with **Next.js**.
+A dedicated website where I thoroughly document my solved **LeetCode** issues and **Data Structures & Algorithms (DSA)** exercises. Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort issues. Built with **Next.js**.
 
 `Java` `Next.js` `Algorithms` `DSA` `Time/Space Complexity` `Tailwind`
 
@@ -70,7 +101,7 @@ A **Team-built (in SCRUM) software** — a full register system for the taxi ind
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nextjs,spring,tailwind,redux,firebase,postgres,docker,git&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,ts,js,react,nextjs,spring,tailwind,redux,firebase,postgres,docker,git&perline=6" alt="Tech Stack"/>
 
 </div>
 
