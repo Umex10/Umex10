@@ -31,14 +31,6 @@
 <a href="https://dev-resume-sigma.vercel.app"><img src="https://img.shields.io/badge/Dev--Resume-visit-6e40c9?style=for-the-badge" alt="Dev Resume"/></a>
 <a href="mailto:Umejr.Dzinovic@edu.fh-joanneum.at"><img src="https://img.shields.io/badge/Email-contact-2ea043?style=for-the-badge" alt="Email"/></a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Umex10&theme=github-dark-dimmed&hide_border=true" alt="Commit Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umex10&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
-
 </div>
 
 ---
