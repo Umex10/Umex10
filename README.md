@@ -1,28 +1,27 @@
 ```text
              .::;;;||||(((|||;:     .           Umex10@github ----------------------------------------------
           .:;;|(((tttt(tt((tttt((|:   .         . OS: ........................................... Linux Mint
-        :;;|(tttt((((((((((((((((ttt|.  .       . Host: .................................. FH JOANNEUM, Graz
+        :;;|(tttt((((((((((((((((ttt|.  .       . Host: ............................................... Graz
       .;||(ttt(((((((((((((((((((|((tt(:        . Kernel: ..................... Software Engineering Student
      ;|;(ttt((tttt((((((((((((((((((|((tt. .    . IDE: .............................................. VSCode
-   .|;|fjjfffffftttttttt(((((((((((((((|tf|     . Uptime: .................... 120+ days daily-commit streak
   .|.t##wkkkwkjjfftftt((((tt((((((((((((|(f| .                                                              
-  |:f%%%%%%%###wwwkjjjkjjfft((((((((((((((((:   . Languages.Programming: .................. Java, TypeScript
- |;(%%%%@@@@@@%%%%%%%%#kjftttt(((((((((((((((   . Languages.Frameworks: ............... Next.js, Spring Boot
+  |:f%%%%%%%###wwwkjjjkjjfft((((((((((((((((:   . Languages: ...................................... Java, TS
+ |;(%%%%@@@@@@%%%%%%%%#kjftttt(((((((((((((((   . Languages.Frameworks: .................... Next.js, S-Boot
 :|.%%#%@@@@@@@@@@%%%%#wkjjft(tfjjft((((f(((((;  . Languages.Markup: ................... HTML, CSS, SQL, YAML
 | k@@@@@@@@@@@@@@@@@@@%%%kkkw##wftttttjt(t((((                                                              
-|.%@@@@@@@@@@@@@@@@@@@@@%##%wkjffffjjjj(ft((tf  . Hobbies.Software: ................ Building fullstack apps
+|.%@@@@@@@@@@@@@@@@@@@@@%##%wkjffffjjjj(ft((tf  . Hobbies.Software: .................. Coding fullstack apps
 ;(%%@@@@@@@@@@@@@@@@@@@@@%%#kkkkwwwwkwkjjtttf(  . Hobbies.Focus: .................. Auth systems, clean APIs
  f%%@@@@@@@@@@@@@@@@@@@@%%%###%%%%%##%wwjfjjt(                                                              
 :t%%%@@@@@@@@@@@@@@@@@@@%%#%%%@@@@@@@%%%kwkftt  Contact ----------------------------------------------------
-;|w%%%@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@#kjft  . Email.University: ...... Umejr.Dzinovic@edu.fh-joanneum.at
+;|w%%%@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@#kjft  . Work: ........................... umi.dzinovic10@gmail.com
 :;fw%%%%@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%wjj(  . DevResume: ................... dev-resume-sigma.vercel.app
 ..fjw%%%%%%%@@@@@@%%%%%%%@@@@@@@@@@@@@@@%#kjf.  . GitHub: ........................................... Umex10
  .;jjjk#%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%#wkj;                                                               
    |jjfj%###%%%%###%%#w#%@@@@@@@@@@@@@%#wkj| .  GitHub Stats -----------------------------------------------
-  . (jjfk############%%%%@@@@@@@@@@@%#wkkj| .   . Repos: ................... 9 | Followers: 7 | Following: 5
-   . |jkjjkw#######%#######%%@@@@%%#wkjjf: .    . Pinned: ........................ authkit, chatex, renderex
-    . :fkjjjjwwwwkkjjjjjjjjkkwwwwkkkjjf|  .     . Stack.Deploy: .................... Docker, Railway, Vercel
-     .  |tffft(|((|(ffjjjjjfffjjjffft|  .                                                                   
+  . (jjfk############%%%%@@@@@@@@@@@%#wkkj| .   . Reps: .................... 9 | Followers: 7 | Following: 5
+   . |jkjjkw#######%#######%%@@@@%%#wkjjf: .    . Contributions: .......................... streak: 201 days
+    . :fkjjjjwwwwkkjjjjjjjjkkwwwwkkkjjf|  .     . Labeld: ........................ authkit, chatex, renderex
+     .  |tffft(|((|(ffjjjjjfffjjjffft|  .       . Stack.Live: ...................... Docker, Railway, Vercel
        .  ;||((ttttfffftttjfjftftt|:   .                                                                    
         ..   .;||(fft(((ttffft|;:   ..                                                                      
 ```
@@ -33,11 +32,6 @@
 <a href="mailto:Umejr.Dzinovic@edu.fh-joanneum.at"><img src="https://img.shields.io/badge/Email-contact-2ea043?style=for-the-badge" alt="Email"/></a>
 
 <br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Umex10&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umex10&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Umex10&theme=github-dark-dimmed&hide_border=true" alt="Commit Streak"/>
 
