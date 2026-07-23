@@ -1,5 +1,3 @@
-<div align="center">
-
 ```text
              .::;;;||||(((|||;:     .           Umex10@github ----------------------------------------------
           .:;;|(((tttt(tt((tttt((|:   .         . OS: ........................................... Linux Mint
@@ -7,29 +5,27 @@
       .;||(ttt(((((((((((((((((((|((tt(:        . Kernel: ..................... Software Engineering Student
      ;|;(ttt((tttt((((((((((((((((((|((tt. .    . IDE: .............................................. VSCode
    .|;|fjjfffffftttttttt(((((((((((((((|tf|     . Uptime: .................... 120+ days daily-commit streak
-  .|.t##wkkkwkjjfftftt((((tt((((((((((((|(f| .
+  .|.t##wkkkwkjjfftftt((((tt((((((((((((|(f| .                                                              
   |:f%%%%%%%###wwwkjjjkjjfft((((((((((((((((:   . Languages.Programming: .................. Java, TypeScript
  |;(%%%%@@@@@@%%%%%%%%#kjftttt(((((((((((((((   . Languages.Frameworks: ............... Next.js, Spring Boot
 :|.%%#%@@@@@@@@@@%%%%#wkjjft(tfjjft((((f(((((;  . Languages.Markup: ................... HTML, CSS, SQL, YAML
-| k@@@@@@@@@@@@@@@@@@@%%%kkkw##wftttttjt(t((((
+| k@@@@@@@@@@@@@@@@@@@%%%kkkw##wftttttjt(t((((                                                              
 |.%@@@@@@@@@@@@@@@@@@@@@%##%wkjffffjjjj(ft((tf  . Hobbies.Software: ................ Building fullstack apps
 ;(%%@@@@@@@@@@@@@@@@@@@@@%%#kkkkwwwwkwkjjtttf(  . Hobbies.Focus: .................. Auth systems, clean APIs
- f%%@@@@@@@@@@@@@@@@@@@@%%%###%%%%%##%wwjfjjt(
+ f%%@@@@@@@@@@@@@@@@@@@@%%%###%%%%%##%wwjfjjt(                                                              
 :t%%%@@@@@@@@@@@@@@@@@@@%%#%%%@@@@@@@%%%kwkftt  Contact ----------------------------------------------------
 ;|w%%%@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@#kjft  . Email.University: ...... Umejr.Dzinovic@edu.fh-joanneum.at
 :;fw%%%%@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%wjj(  . DevResume: ................... dev-resume-sigma.vercel.app
 ..fjw%%%%%%%@@@@@@%%%%%%%@@@@@@@@@@@@@@@%#kjf.  . GitHub: ........................................... Umex10
- .;jjjk#%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%#wkj;
+ .;jjjk#%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%#wkj;                                                               
    |jjfj%###%%%%###%%#w#%@@@@@@@@@@@@@%#wkj| .  GitHub Stats -----------------------------------------------
   . (jjfk############%%%%@@@@@@@@@@@%#wkkj| .   . Repos: ................... 9 | Followers: 7 | Following: 5
    . |jkjjkw#######%#######%%@@@@%%#wkjjf: .    . Pinned: ........................ authkit, chatex, renderex
     . :fkjjjjwwwwkkjjjjjjjjkkwwwwkkkjjf|  .     . Stack.Deploy: .................... Docker, Railway, Vercel
-     .  |tffft(|((|(ffjjjjjfffjjjffft|  .
-       .  ;||((ttttfffftttjfjftftt|:   .
-        ..   .;||(fft(((ttffft|;:   ..
+     .  |tffft(|((|(ffjjjjjfffjjjffft|  .                                                                   
+       .  ;||((ttttfffftttjfjftftt|:   .                                                                    
+        ..   .;||(fft(((ttffft|;:   ..                                                                      
 ```
-
-</div>
 
 <div align="center">
 
