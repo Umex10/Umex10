@@ -35,7 +35,7 @@
 
 ---
 
-## 🔍 Deep Dives
+## 🔍 Dives
 
 ---
 
