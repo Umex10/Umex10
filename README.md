@@ -1,29 +1,30 @@
 ```text
-             .::;;;||||(((|||;:     .           Umex10@github ----------------------------------------------
-          .:;;|(((tttt(tt((tttt((|:   .         . OS: ........................................... Linux Mint
-        :;;|(tttt((((((((((((((((ttt|.  .       . Host: ............................................... Graz
-      .;||(ttt(((((((((((((((((((|((tt(:        . Kernel: ..................... Software Engineering Student
-     ;|;(ttt((tttt((((((((((((((((((|((tt. .    . IDE: .............................................. VSCode
-  .|.t##wkkkwkjjfftftt((((tt((((((((((((|(f| .                                                              
-  |:f%%%%%%%###wwwkjjjkjjfft((((((((((((((((:   . Languages: ...................................... Java, TS
- |;(%%%%@@@@@@%%%%%%%%#kjftttt(((((((((((((((   . Languages.Frameworks: .................... Next.js, S-Boot
-:|.%%#%@@@@@@@@@@%%%%#wkjjft(tfjjft((((f(((((;  . Languages.Markup: ................... HTML, CSS, SQL, YAML
-| k@@@@@@@@@@@@@@@@@@@%%%kkkw##wftttttjt(t((((                                                              
-|.%@@@@@@@@@@@@@@@@@@@@@%##%wkjffffjjjj(ft((tf  . Hobbies.Software: .................. Coding fullstack apps
-;(%%@@@@@@@@@@@@@@@@@@@@@%%#kkkkwwwwkwkjjtttf(  . Hobbies.Focus: .................. Auth systems, clean APIs
- f%%@@@@@@@@@@@@@@@@@@@@%%%###%%%%%##%wwjfjjt(                                                              
-:t%%%@@@@@@@@@@@@@@@@@@@%%#%%%@@@@@@@%%%kwkftt  Contact ----------------------------------------------------
-;|w%%%@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@#kjft  . Work: ........................... umi.dzinovic10@gmail.com
-:;fw%%%%@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@@@@%wjj(  . DevResume: ................... dev-resume-sigma.vercel.app
-..fjw%%%%%%%@@@@@@%%%%%%%@@@@@@@@@@@@@@@%#kjf.  . GitHub: ........................................... Umex10
- .;jjjk#%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@%#wkj;                                                               
-   |jjfj%###%%%%###%%#w#%@@@@@@@@@@@@@%#wkj| .  GitHub Stats -----------------------------------------------
-  . (jjfk############%%%%@@@@@@@@@@@%#wkkj| .   . Reps: .................... 9 | Followers: 7 | Following: 5
-   . |jkjjkw#######%#######%%@@@@%%#wkjjf: .    . Contributions: .......................... streak: 201 days
-    . :fkjjjjwwwwkkjjjjjjjjkkwwwwkkkjjf|  .     . Labeld: ........................ authkit, chatex, renderex
-     .  |tffft(|((|(ffjjjjjfffjjjffft|  .       . Stack.Live: ...................... Docker, Railway, Vercel
-       .  ;||((ttttfffftttjfjftftt|:   .                                                                    
-        ..   .;||(fft(((ttffft|;:   ..                                                                      
+           ... ..                                      Umex10@github ----------------------------------------------
+       ..::::::...  .                                  . OS: ........................................... Linux Mint
+     .=-----------::.........           ....           . Host: ............................................... Graz
+     :%@@%%@@@@@@%#*+++=--:::.....::........           . Kernel: ..................... Software Engineering Student
+.... +@@@@@@@@@@%#*==++=:...::::::...                  . IDE: .............................................. VSCode
+... -@@@@@@@@@@*+=-==-:.  .:::...
+    +@@@@@@@@@@*+===:........               ..         . Languages: ...................................... Java, TS
+    #@@@@@@@@@%*++=:........  .             ..         . Languages.Frameworks: .................... Next.js, S-Boot
+    @@@@@@@@@%*++=--..........               ..        . Languages.Markup: ................... HTML, CSS, SQL, YAML
+   .%@@@@@@#+-:...:..   .....               .::.
+ --:%#%@@@%+--==+*+=:.....                 ..  .       . Hobbies.Software: .................. Coding fullstack apps
++%+:#@%#@%+-:---##===::......           ..  .          . Hobbies.Focus: .................. Auth systems, clean APIs
+=*+::++%@%=:.  :=-=:+: ..==-:...         .  ..
+ +#= =@@@=:=:..-%%#*+===---::...        .              Contact ----------------------------------------------------
+  #@#=@@+...-==+%@@@###*=-:::...       ..              . Work: ........................... umi.dzinovic10@gmail.com
+   :-.@@=::...-*%@%##*=-:......        .. ..           . DevResume: ................... dev-resume-sigma.vercel.app
+     :%=:.:::  -*%#*=-:::....           .              . GitHub: ........................................... Umex10
+       *@*.   ..=*#*+-::.....               .-:
+       =@@@+:::::===--::.....                 :-.      GitHub Stats -----------------------------------------------
+       .%%%=----=-:::::.......              .  :+.     . Reps: .................... 9 | Followers: 7 | Following: 5
+        +@@#=----=:...........              .: .*=     . Contributions: .......................... streak: 250 days
+        :%*=-::-:::..........               ...-*::    . Labeld: ........................ authkit, chatex, renderex
+...  ..:.:@@@#+=:..........                 . .+-::    . Stack.Live: ...................... Docker, Railway, Vercel
+:::::::...@@@@#+-:.. .  .                    .=-.:.
+::.:......=*+*=::........                   .::...
+..... ......... .@@@@*--::....           .:-::...
 ```
 
 <div align="center">
@@ -42,6 +43,31 @@
 <table>
 <tr>
 <td width="30%" valign="top">
+  <a href="https://github.com/Umex10/dev-resume">
+    <img src="./assets/mobile/dev-resume.jpg" width="100%" alt="Dev Resume on mobile — the hero section"/>
+  </a>
+</td>
+<td width="70%" valign="top">
+
+### 👤 Dev-Resume
+
+**[github.com/Umex10/dev-resume](https://github.com/Umex10/dev-resume)** · **[live](https://dev-resume-sigma.vercel.app)**
+
+My developer resume as a single-page site: intro, availability, apps, skills and a working contact form that sends mail through **Resend**.
+
+Built with **Next.js 16** and **React 19**, animated with **Framer Motion**, charts via **Recharts**, form validation with **Zod** + `react-hook-form`.
+
+`Next.js` `React 19` `TS` `Framer Motion` `Recharts` `Resend` `Zod` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="30%" valign="top">
   <a href="https://github.com/Umex10/authkit">
     <img src="./assets/mobile/authkit.jpg" width="100%" alt="AuthKit on mobile — the dashboard right after sign-up"/>
   </a>
@@ -49,6 +75,8 @@
 <td width="70%" valign="top">
 
 ### 🔐 AuthKit — Drop-in Authentication Microservice
+
+**[github.com/Umex10/authkit](https://github.com/Umex10/authkit)**
 
 A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API.
 
@@ -75,6 +103,8 @@ Both clients use **Redux Toolkit Query** with silent token refresh and route gua
 
 ### 💬 Chatex — Social Website
 
+**[github.com/Umex10/chatex](https://github.com/Umex10/chatex)**
+
 A social website with a full auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin.
 
 Every request runs through a custom `JwtAuthentication` (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie).
@@ -100,6 +130,8 @@ Users post **Shouts** with likes, reshouts, quotes and comments, follow each oth
 
 ### 🧩 LeetCode & DSA Exercises — Issue Solving
 
+**[github.com/Umex10/dsa-exercises-website](https://github.com/Umex10/dsa-exercises-website)** · **[exercises repo](https://github.com/Umex10/dsa-exercises)**
+
 A dedicated website where I thoroughly document my solved **LeetCode** issues and **Data Structures & Algorithms** exercises.
 
 Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The site pulls the solutions, notes and code straight from the exercises repo through the **GitHub API**, and features a robust **filtering system** to search and sort issues by difficulty.
@@ -123,6 +155,8 @@ Every solution is coded in **Java** and comes with an in-depth explanation of th
 
 ### 📝 Renderex — AI-Driven Note-Taking
 
+**[github.com/Umex10/renderex](https://github.com/Umex10/renderex)**
+
 Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server.
 
 **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
@@ -132,37 +166,6 @@ Modern note-taking where markdown meets AI. **Firebase** handles the entire back
 </td>
 </tr>
 </table>
-
----
-
-<table>
-<tr>
-<td width="30%" valign="top">
-  <a href="https://dev-resume-sigma.vercel.app">
-    <img src="./assets/mobile/dev-resume.jpg" width="100%" alt="Dev Resume on mobile — the hero section"/>
-  </a>
-</td>
-<td width="70%" valign="top">
-
-### 👤 Dev-Resume — Portfolio & CV
-
-My developer resume as a single-page site: intro, availability, apps, skills and a working contact form that sends mail through **Resend**.
-
-Built with **Next.js 16** and **React 19**, animated with **Framer Motion**, charts via **Recharts**, form validation with **Zod** + `react-hook-form`. Live at **[dev-resume-sigma.vercel.app](https://dev-resume-sigma.vercel.app)**.
-
-`Next.js` `React 19` `TS` `Framer Motion` `Recharts` `Resend` `Zod` `Tailwind`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚕 Smart-Kassa — Taxi Register System with Live Track
-
-A **Team-built (in SCRUM) software** — a full register system for the taxi industry. I built and designed the entire UI and was fully responsible for the route system — **Leaflet** for the interactive map, **live GPS tracking** during rides, turn-by-turn navigation to the destination. The **All Rides** view lists every recorded trip with sorting and animated entries. I also built the **Summary** page, the **Dashboard** with analytics, and the **Settings** — everything the driver actually interacts with every shift.
-
-`React` `TS` `Leaflet` `Redux` `Tailwind` `Shadcn/ui` `Framer Motion` `Node.js` `Express` `PostgreSQL`
 
 ---
 
