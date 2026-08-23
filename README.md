@@ -91,7 +91,7 @@ Users can post **Shouts**, manage their accounts (avatar, banner, bio, location)
 </td>
 <td width="45%" valign="top">
   <a href="https://github.com/Umex10/chatex">
-    <img src="./assets/chatex.jpg" width="100%" alt="Chatex — landing page"/>
+    <img src="./assets/chatex.jpg" width="100%" alt="Chatex — feed with shouts and trends"/>
   </a>
 </td>
 </tr>
