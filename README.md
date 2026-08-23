@@ -48,12 +48,12 @@
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="26%" valign="top">
   <a href="https://github.com/Umex10/dev-resume">
-    <img src="./assets/mobile/dev-resume.jpg" width="100%" alt="Dev Resume on mobile — the hero section"/>
+    <img src="./assets/phone/dev-resume.jpg" width="100%" alt="Dev Resume on mobile — the hero section"/>
   </a>
 </td>
-<td width="70%" valign="top">
+<td width="74%" valign="top">
 
 ### 👤 Dev-Resume
 
@@ -73,12 +73,12 @@ Built with **Next.js 16** and **React 19**, animated with **Framer Motion**, cha
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="26%" valign="top">
   <a href="https://github.com/Umex10/authkit">
-    <img src="./assets/mobile/authkit.jpg" width="100%" alt="AuthKit on mobile — the dashboard right after sign-up"/>
+    <img src="./assets/phone/authkit.jpg" width="100%" alt="AuthKit on mobile — the dashboard right after sign-up"/>
   </a>
 </td>
-<td width="70%" valign="top">
+<td width="74%" valign="top">
 
 ### 🔐 AuthKit — Drop-in Authentication Microservice
 
@@ -100,12 +100,12 @@ Both clients use **Redux Toolkit Query** with silent token refresh and route gua
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="26%" valign="top">
   <a href="https://github.com/Umex10/chatex">
-    <img src="./assets/mobile/chatex.jpg" width="100%" alt="Chatex on mobile — the feed with shouts, likes and reshouts"/>
+    <img src="./assets/phone/chatex.jpg" width="100%" alt="Chatex on mobile — the feed with shouts, likes and reshouts"/>
   </a>
 </td>
-<td width="70%" valign="top">
+<td width="74%" valign="top">
 
 ### 💬 Chatex — Social Website
 
@@ -127,12 +127,12 @@ Users post **Shouts** with likes, reshouts, quotes and comments, follow each oth
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="26%" valign="top">
   <a href="https://github.com/Umex10/dsa-exercises-website">
-    <img src="./assets/mobile/dsa.jpg" width="100%" alt="DSA Solutions on mobile — the issue overview"/>
+    <img src="./assets/phone/dsa.jpg" width="100%" alt="DSA Solutions on mobile — the issue overview"/>
   </a>
 </td>
-<td width="70%" valign="top">
+<td width="74%" valign="top">
 
 ### 🧩 LeetCode & DSA Exercises — Issue Solving
 
@@ -152,12 +152,12 @@ Every solution is coded in **Java** and comes with an in-depth explanation of th
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="26%" valign="top">
   <a href="https://github.com/Umex10/renderex">
-    <img src="./assets/mobile/renderex.jpg" width="100%" alt="Renderex on mobile — the landing page"/>
+    <img src="./assets/phone/renderex.jpg" width="100%" alt="Renderex on mobile — the landing page"/>
   </a>
 </td>
-<td width="70%" valign="top">
+<td width="74%" valign="top">
 
 ### 📝 Renderex — AI-Driven Note-Taking
 
