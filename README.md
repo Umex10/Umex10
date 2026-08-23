@@ -35,39 +35,113 @@
 
 ---
 
+<div align="center">
+  <a href="https://dev-resume-sigma.vercel.app">
+    <img src="./assets/dev-resume.jpg" width="100%" alt="Dev Resume — hero section"/>
+  </a>
+  <br/>
+  <sub><b>dev-resume</b> · my portfolio & CV, built with Next.js · <a href="https://dev-resume-sigma.vercel.app">dev-resume-sigma.vercel.app</a></sub>
+</div>
+
+---
+
 ## 🔍 Dives
 
 ---
 
 ### 🔐 AuthKit — Drop-in Authentication Microservice
 
-A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API. The security layer is fully **stateless JWT**: a short-lived **access token** (15 min) plus a long-lived **refresh token** (30 days) kept in an **HTTP-only cookie** on web and in the **device keystore** (`expo-secure-store`) on mobile. Role-based authorization (`USER` / `ADMIN`) via `@PreAuthorize`, a protected `GET /me` route, and a live **Swagger UI** with an `Authorize` 🔒 button. Both clients use **Redux Toolkit Query** with silent token refresh and route guards — Server Actions on web, `AuthProvider` on mobile. One `docker compose up` brings up Postgres + backend, and it ships with tests everywhere: **Spring integration tests, Vitest + Playwright e2e (web), Jest + RN Testing Library (mobile)**.
+<table>
+<tr>
+<td width="45%" valign="top">
+  <a href="https://github.com/Umex10/authkit">
+    <img src="./assets/authkit.png" width="100%" alt="AuthKit — sign-up screen"/>
+  </a>
+</td>
+<td width="55%" valign="top">
+
+A reusable, **production-style auth system** packaged as a monorepo: one **Spring Boot** backend and **two interchangeable frontends** — a **Next.js** web app and a **React Native (Expo)** mobile app — that both speak to the same API.
+
+The security layer is fully **stateless JWT**: a short-lived **access token** (15 min) plus a long-lived **refresh token** (30 days) kept in an **HTTP-only cookie** on web and in the **device keystore** (`expo-secure-store`) on mobile. Role-based authorization (`USER` / `ADMIN`) via `@PreAuthorize`, a protected `GET /me` route, and a live **Swagger UI** with an `Authorize` 🔒 button.
+
+Both clients use **Redux Toolkit Query** with silent token refresh and route guards — Server Actions on web, `AuthProvider` on mobile. One `docker compose up` brings up Postgres + backend, and it ships with tests everywhere: **Spring integration tests, Vitest + Playwright e2e (web), Jest + RN Testing Library (mobile)**.
 
 `Java 21` `S-Boot` `Spring Security` `JWT` `PostgreSQL` `Next.js` `React 19` `React Native` `Expo` `RTK Query` `Tailwind` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 💬 Chatex — Social Website
 
-A social-Website with a auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin. Every request runs through a custom `JwtAuthentication` (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie). Users can post **Shouts**, manage their accounts (avatar, banner, bio, location), and the `AuthController` builds sign-up, sign-in, and token refresh endpoints.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+A social-Website with a auth system. The **S-Boot-Security** `Security-Chain` is fully stateless — CSRF disabled, CORS locked to the frontend origin.
+
+Every request runs through a custom `JwtAuthentication` (`OncePerRequest`) that pulls the Bearer token from the `Authorization` header, validates it via **JWT**, and sets the `SecurityContextHolder` — giving every downstream controller direct access to the authenticated user. Token strategy: short-lived **access token** (15 min) + long-lived **refresh token** (30 days, HttpOnly cookie).
+
+Users can post **Shouts**, manage their accounts (avatar, banner, bio, location), and the `AuthController` builds sign-up, sign-in, and token refresh endpoints.
 
 `Next.js` `TS` `S-Boot` `S-Boot-Security` `JWT` `P-SQL` `Redux` `Shadcn/ui` `Container & Images`
+
+</td>
+<td width="45%" valign="top">
+  <a href="https://github.com/Umex10/chatex">
+    <img src="./assets/chatex.jpg" width="100%" alt="Chatex — landing page"/>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🧩 LeetCode & DSA Exercises — Issue Solving
 
-A dedicated website where I thoroughly document my solved **LeetCode** issues and **Data Structures & Algorithms (DSA)** exercises. Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort issues. Built with **Next.js**.
+<table>
+<tr>
+<td width="45%" valign="top">
+  <a href="https://github.com/Umex10/dsa-exercises-website">
+    <img src="./assets/dsa.jpg" width="100%" alt="DSA Solutions — issue overview with filtering"/>
+  </a>
+</td>
+<td width="55%" valign="top">
+
+A dedicated website where I thoroughly document my solved **LeetCode** issues and **Data Structures & Algorithms (DSA)** exercises.
+
+Every solution is coded in **Java** and comes with an in-depth explanation of the underlying logic, accompanied by a precise **Time and Memory Complexity** analysis. The website features a robust **filtering system**, allowing users to easily search and sort issues. Built with **Next.js**.
 
 `Java` `Next.js` `Algorithms` `DSA` `Time/Space Complexity` `Tailwind`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📝 Renderex — AI-Driven Note-Taking
 
-Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server. **Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+Modern note-taking where markdown meets AI. **Firebase** handles the entire backend — auth, database, protected routes, user-scoped data — all without running a server.
+
+**Google Gemini** is wired in for context-aware content generation. Export to PDF, DOCX, Markdown or plain text, full tag system, dark/light theme with **Framer Motion** animations.
 
 `Next.js` `TS` `Firebase` `Redux` `Gemini AI` `Framer Motion` `Tailwind`
+
+</td>
+<td width="45%" valign="top">
+  <a href="https://github.com/Umex10/renderex">
+    <img src="./assets/renderex.jpg" width="100%" alt="Renderex — landing page"/>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
