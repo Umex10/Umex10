@@ -76,7 +76,7 @@ Built with **Next.js 16** and **React 19**, animated with **Framer Motion**, cha
 </td>
 <td width="74%" valign="top">
 
-### 🔐 AuthKit — Drop-in Authentication Microservice
+### 🔐 AuthKit — Authentication System
 
 **[github.com/Umex10/authkit](https://github.com/Umex10/authkit)**
 
