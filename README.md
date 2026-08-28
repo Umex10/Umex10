@@ -36,14 +36,6 @@
 
 </div>
 
-<div align="center">
-     My Life currently
-
-https://github.com/user-attachments/assets/16855166-9d66-4e27-bcc6-7a6f05812191
-
-
-</div>
-
 ---
 
 ## 🔍 Dives
