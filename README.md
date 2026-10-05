@@ -51,31 +51,6 @@
 </td>
 <td width="74%" valign="top">
 
-### 👤 Dev-Resume
-
-**[github.com/Umex10/dev-resume](https://github.com/Umex10/dev-resume)** · **[live](https://dev-resume-sigma.vercel.app)**
-
-My developer resume as a single-page site: intro, availability, apps, skills and a working contact form that sends mail through **Resend**.
-
-Built with **Next.js 16** and **React 19**, animated with **Framer Motion**, charts via **Recharts**, form validation with **Zod** + `react-hook-form`.
-
-`Next.js` `React 19` `TS` `Framer Motion` `Recharts` `Resend` `Zod` `Tailwind`
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="26%" valign="top">
-  <a href="https://github.com/Umex10/authkit">
-    <img src="./assets/phone/authkit.jpg" width="100%" alt="AuthKit on mobile — the dashboard right after sign-up"/>
-  </a>
-</td>
-<td width="74%" valign="top">
-
 ### 🔐 AuthKit — Authentication System
 
 **[github.com/Umex10/authkit](https://github.com/Umex10/authkit)**
